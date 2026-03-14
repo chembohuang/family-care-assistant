@@ -1,6 +1,6 @@
 # Privacy Policy for Family Care Assistant
 
-**Last updated: February 10, 2026**
+**Last updated: March 14, 2026**
 
 Family Care Assistant ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how our mobile application (the "App") collects, uses, and discloses information, and what choices you have with respect to the information.
 
@@ -54,4 +54,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions about this Privacy Policy, please contact us at:
 
 **Developer:** Guoqin Huang
-**Email:** chemboking@gmail.com
+**Email:** chemboking@163.com
