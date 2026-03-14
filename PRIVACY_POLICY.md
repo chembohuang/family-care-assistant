@@ -1,7 +1,5 @@
 # Privacy Policy for Family Care Assistant
 
-🌐 [中文版 (Chinese Version)](./PRIVACY_POLICY_ZH.html)
-
 **Last updated: March 14, 2026**
 
 Family Care Assistant ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how our mobile application (the "App") collects, uses, and discloses information, and what choices you have with respect to the information.
